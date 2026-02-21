@@ -4,7 +4,7 @@ import sys
 
 # --- Configuration ---
 INPUT_FILE = "links.txt"
-OUTPUT_DIR = "laundry_instagram"
+OUTPUT_DIR = "projector"
 COOKIE_FILE = os.path.join(os.getcwd(), 'cookies.txt')
 
 def check_setup():
